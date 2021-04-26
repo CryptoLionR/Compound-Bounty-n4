@@ -13,5 +13,6 @@ Output:
 This calculator is built on the following simple equation:
 ![equation](https://latex.codecogs.com/gif.download?Loan%20%3D%20Collateral%20*%20APY%20*%20Years)
 
-Simple as that! After completing a calculation, the calculator restarts and you are able to input a different combination of numbers. See below for an example output
+Simple as that! After completing a calculation, the calculator restarts and you are able to input a different combination of numbers. See below for an example output.
+
 ![example output](/outputs/eg_output.png)

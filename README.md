@@ -10,7 +10,9 @@ This github repo holds a python script and a Windows executable that calculates 
 Output:
 * Loan Mature Date
 
-This calculator is built on the following simple equation: *loan = collateral * APY * time_inYears* 
+This calculator is built on the following simple equation: 
+
+*loan = collateral * APY * time_inYears* 
 
 Simple as that! After completing a calculation, the calculator restarts and you are able to input a different combination of numbers. See below for an example output.
 

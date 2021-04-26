@@ -8,7 +8,7 @@ Put together by @ryanl and @MonetCapital.
 In this github article, we wrote a python script that calculates the maturity date of a DAI loan. This calculator can take in **ANY** scenario as it has no limits and is based solely on one equation.
 
 ### The Calculator
-*to run the calculator, you will need python installed*
+*to run the calculator, you will need python installed or run the .exe file in the dist folder*
 
 This github repo holds a python script and a Windows executable that calculates the time it will take to payoff a DAI loan. The script requires three inputs:
 * DAI Collateral Amount (in USD)
